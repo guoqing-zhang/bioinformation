@@ -1,2 +1,2 @@
 # bioinformation
-#notes about 16S
+# notes about 16S
